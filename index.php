@@ -7,7 +7,7 @@
 <body>
 	<div class="container">
 		<div class="forms">
-			<form action="https://islamcv.herokuapp.com/">
+			<form action="https://islamindex.herokuapp.com/">
 				<div class="title">
 					<div class="sign_in_block">
 						<a href="#"><p class="sign_in">Sign in</p></a>
